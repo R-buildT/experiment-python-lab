@@ -13,4 +13,4 @@ My weekly practice, experiments, and mini-projects are organized in a separate d
 
 4 Improve problem-solving skills
 
-5 Grow from beginner to writing larger applications
+5 Grow from beginner to writing larger application
