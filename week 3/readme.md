@@ -1,19 +1,13 @@
 # Week 3 - Python Testing and Learning
 
-## Overview
+## OVERVIEW
 
-This week focuses on learning Python through experimentation and testing code. The goal is to build confidence with Python syntax, practice writing small scripts, and understand how to run and verify code in a development workflow.
+This week covers topics from functions and data structures to testing and debugging in Python. You will learn how to write unit tests, use assertions, and debug your code effectively.
 
-
-## Week 3 Goals
-
-- Write and run simple Python programs
-- Practice using print statements for output
-- Learn how to debug by testing code with sample values
-- Develop a habit of verifying results before moving on
-
-
-## Notes
-
-This README is intended to guide the Week 3 learning process for testing Python code and becoming comfortable with common programming patterns. Keep practicing and reviewing code examples to build strong foundations.
-    
+## GOALS
+   
+   1. understand in dept knowledge of Python functions and data structures
+   2. practice atleast 20 projects in Python
+   3. evaluating mistakes and debugging code
+   4. learn combined knowledge of Python and testing
+   
