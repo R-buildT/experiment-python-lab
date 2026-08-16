@@ -1,0 +1,2 @@
+prac = ('\t did you notice albert\'s bike has been stolen?? \n \t i didnt knew it happened bruh \n \t same here man i saw the bike last with him only \n \t oh did you mean yesterday\\today??')
+print(prac)
