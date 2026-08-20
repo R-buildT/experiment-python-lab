@@ -13,7 +13,7 @@ x = 25
 i = 0
 while i < len(num1):
     if(num1[i] == x):
-        print("MILGAYA LAUNDA = ", i)
+        print("found!! >> ", i)
         break
     else:
         print("Finding...")
