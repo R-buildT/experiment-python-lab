@@ -1,15 +1,12 @@
-def func(abc):
+def divide_numbers(divisor):
+    """Divide 999 by the given divisor, handling division by zero errors."""
     try:
-        return 999 / abc
+        return 999 / divisor
     except ZeroDivisionError:
         return "error while doing operation"
 
-
-print(func(45))
-print(func(99))
-print(func(0))
-print(func(2))
-
-#try: and except: are used to handle exceptions in Python. In this code, the function func takes an 
-# argument abc and attempts to divide 999 by abc. If abc is zero, a ZeroDivisionError will occur, and the 
-# except block will catch that error and return a custom error message instead of crashing the program.
+if __name__ == '__main__':
+    print(divide_numbers(45))
+    print(divide_numbers(99))
+    print(divide_numbers(0))
+    print(divide_numbers(2))
