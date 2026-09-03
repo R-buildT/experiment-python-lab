@@ -1,4 +1,3 @@
-
 def spam():
     eggs = 'SPAMSPAM'
     print(bacon())
@@ -7,7 +6,7 @@ def spam():
 def bacon():
     ham = 'hamham'
     eggs = 'BACONBACON'
-    return(eggs)
+    return eggs
 
-spam() 
+spam()
 print(bacon())

@@ -1,28 +1,27 @@
-
 import random
+
+def hours(minutes):
+    if 1 < minutes <= 60:
+        print("study more", minutes)
+    elif minutes == 0:
+        print("study session cancelled")
+    elif 60 < minutes <= 120:
+        print("a lil more study period, ", minutes)
+    elif 120 < minutes <= 180:
+        print("perfect study period, ", minutes)
+    elif 180 < minutes <= 240:
+        print("more than perfect study period, ", minutes)
+    elif 240 < minutes < 300:
+        print("being the topper in the next exam, ", minutes)
+
 while True:
-    def hours(min):
-        if(1 < min <= 60 ):
-            print("study more",min)
-        elif( min == 0):
-            print("fuck off gay illitrerate")
-        elif(60 < min <= 120):
-            print("a lil more study period, ",min)
-        elif(120 < min <= 180):
-            print("perfect study period, ",min)
-        elif(180 < min <= 240):
-            print("more than perfect study period, ", min)
-        elif(240 < min < 300):
-            print("being the topper in the next exam, ",min)
-
     print("estimating your study hr... ")
-    print("permission gransted??")
-    a =input("> yes or no? >> ")
+    print("permission granted??")
+    a = input("> yes or no? >> ")
 
-    if (a == "yes"):
-        min = random.randint(1,300)
+    if a == "yes":
+        minutes = random.randint(1, 300)
     else:
-        min = 0
+        minutes = 0
 
-    hours(min)
-
+    hours(minutes)
