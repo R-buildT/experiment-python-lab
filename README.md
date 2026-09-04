@@ -12,6 +12,6 @@ Jump straight to specific milestones or source branches below:
 
 
 ## 🚀 Projects
-* **Active Real Project:** *Coming soon...* (Currently in the planning and foundational coding phase)
+* **Active Real Project: https://github.com/R-buildT/experiment-python-lab/tree/active-build/python**
 
 ---
