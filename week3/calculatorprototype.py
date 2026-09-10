@@ -34,10 +34,16 @@ def calculate(num1_str, num2_str, num3_str, operation):
                 return int(num1_str) * int(num2_str) * int(num3_str)
         elif operation == '/':
             if num3_str == '':
+                if int(num2_str) == 0:
+                    return "division by zero"
                 return int(num1_str) / int(num2_str)
             elif num2_str == '':
+                if int(num3_str) == 0:
+                    return "division by zero"
                 return int(num1_str) / int(num3_str)
             elif num1_str == '':
+                if int(num3_str) == 0:
+                    return "division by zero"
                 return int(num2_str) / int(num3_str)
         else:
             return 'invalid operation'

@@ -9,8 +9,8 @@ print('enter your student name')
 a =input('>>> ')
 
 if a.isalpha():
-  print('SCORES ARE >> ')
-  for b in (dic[a]):
-    print((b),dic[a][b])
+    print('SCORES ARE >> ')
+    for b in (dic[a]):
+        print((b),dic[a][b])
 
 

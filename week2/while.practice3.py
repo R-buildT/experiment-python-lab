@@ -15,6 +15,4 @@ while i < len(num1):
     if(num1[i] == x):
         print("found!! >> ", i)
         break
-    else:
-        print("Finding...")
     i += 1

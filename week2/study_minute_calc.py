@@ -1,7 +1,7 @@
-import random
+
 
 def hours(minutes):
-    if 1 < minutes <= 60:
+    if minutes <= 60:
         print("study more", minutes)
     elif minutes == 0:
         print("study session cancelled")
@@ -20,6 +20,7 @@ while True:
     a = input("> yes or no? >> ")
 
     if a == "yes":
+        import random
         minutes = random.randint(1, 300)
     else:
         minutes = 0
