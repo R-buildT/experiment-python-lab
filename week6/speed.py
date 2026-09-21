@@ -1,7 +1,4 @@
-a = 0
-for i in range(0,100000000):
-    a = i
-    if i % 10000000 == 0:
-        print(f"Current: {a}")
-
-print(f"Done! Final: {a}")
+for i in range(0, 1000000000000, 1000000):
+    print(i)
+    if i==1000000000:
+        print('FINISH')
