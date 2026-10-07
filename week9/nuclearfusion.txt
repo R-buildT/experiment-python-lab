@@ -1,0 +1,91 @@
+Nuclear fusion is a reaction in which two or more atomic nuclei combine to form a larger nucleus. The difference in mass between the reactants and products is manifested as either the release or the absorption of energy. This difference in mass arises as a result of the difference in nuclear binding energy between the atomic nuclei before and after the fusion reaction. Active stellar cores are powered by fusion. Nucleosynthesis via fusion, in the Big Bang and in stars, creates all elements lighter than nickel (atomic number 28).
+
+Fusion typically occurs via thermonuclear fusion, an isotropic process requiring a triple product of very high temperature (in the kiloelectronvolt or hundred million Kelvin range), density, and confinement time. These conditions occur only in, thermonuclear weapons and boosted fission weapons, and fusion power experiments.
+
+A nuclear fusion process that produces atomic nuclei lighter than nickel-62 is generally exothermic, due to the positive gradient of the nuclear binding energy curve. The most fusible nuclei are among the lightest, especially deuterium, tritium, and helium-3. The opposite process, nuclear fission, is most energetic for very heavy nuclei, especially the actinides.
+
+Fusion power seeks to use fusion for energy development; tokamaks and stellarators are the dominant designs in magnetic confinement fusion research. Fusion devices can also be used as neutron sources and in superheavy element production.
+History
+For a chronological guide, see Timeline of nuclear fusion.
+Theory
+Animation of an electron's wave function as quantum tunneling allows transit through a barrier with a low probability. In the same fashion, an atomic nucleus can quantum tunnel through the Coulomb barrier to another nucleus, making a fusion reaction possible.
+
+American chemist William Draper Harkins was the first to propose the concept of nuclear fusion in 1915.[1] Francis William Aston's 1919 invention of the mass spectrometer allowed the discovery that four hydrogen atoms are heavier than one helium atom. Thus in 1920, Arthur Eddington correctly predicted fusion of hydrogen into helium could be the primary source of stellar energy.[2]
+
+Quantum tunneling was discovered by Friedrich Hund in 1927, with relation to electron levels.[3][4] In 1928, George Gamow was the first to apply tunneling to the nucleus, first to alpha decay, then to fusion as an inverse process. From this, in 1929, Robert Atkinson and Fritz Houtermans made the first estimates for stellar fusion rates.[5][6]
+
+In 1938, Hans Bethe worked with Charles Critchfield to enumerate the proton–proton chain that dominates Sun-type stars.[7] In 1939, Bethe published the discovery of the CNO cycle common to higher-mass stars.[8]
+Early experiments
+M. Stanley Livingston and Ernest Lawrence in front of UCRL's 27-inch cyclotron in 1934. These devices were used for many early experiments demonstrating deuterium fusion.
+
+During the 1920s, Patrick Blackett made the first conclusive experiments in artificial nuclear transmutation at the Cavendish Laboratory. There, John Cockcroft and Ernest Walton built their generator on the inspiration of Gamow's paper. In April 1932, they published experiments on the reaction:
+
+    7
+    3Li + p → 8
+    X → 2 4
+    2He
+
+where the intermediary nuclide was later confirmed to be the extremely short-lived beryllium-8.[9] This has a claim to the first artificial fusion reaction.[citation needed]
+
+In papers from July and November 1933, Ernest Lawrence et al. at the University of California Radiation Laboratory, in some of the earliest cyclotron experiments, accidentally produced the first deuterium–deuterium fusion reactions:
+
+    2
+    1D + 2
+    1D → 3
+    1T + p
+    2
+    1D + 2
+    1D → 3
+    2He + 1
+    0n
+
+The Radiation Lab, only detecting the resulting energized protons and neutrons,[10][11] misinterpreted the source as an exothermic disintegration of the deuterons, now known to be impossible.[12] In May 1934, Mark Oliphant, Paul Harteck, and Ernest Rutherford at the Cavendish Laboratory,[13] published an intentional deuterium fusion experiment, and made the discovery of both tritium and helium-3. This is widely considered the first experimental demonstration of fusion.[12]
+
+In 1938, Arthur Ruhlig [de] at the University of Michigan made the first observation of deuterium–tritium (DT) fusion and its characteristic 14 MeV neutrons, now known as the most favourable reaction:
+
+    2
+    1D + 3
+    1T → 4
+    2He + 1
+    0n
+
+Weaponization
+Main articles: Nuclear weapon design and Thermonuclear weapon
+
+Research into fusion for military purposes began in the early 1940s as part of the Manhattan Project. In 1941, Enrico Fermi and Edward Teller had a conversation about the possibility of a fission bomb creating conditions for thermonuclear fusion. In 1942, Emil Konopinski brought Ruhlig's work on the deuterium–tritium reaction to the project's attention. J. Robert Oppenheimer initially commissioned physicists at Chicago and Cornell to use the Harvard University cyclotron to secretly investigate its cross-section, and that of the lithium reaction (see below). Measurements were obtained at Purdue, Chicago, and Los Alamos from 1942 to 1946. Theoretical assumptions about DT fusion gave it a similar cross-section to DD. However, in 1946 Egon Bretscher discovered a resonance enhancement giving the DT reaction a cross-section ~100 times larger.[14]
+A highly-schematic representation of the Teller–Ulam design, showing several major components.
+
+From 1945, John von Neumann, Teller, and other Los Alamos scientists used ENIAC, one of the first electronic computers, to simulate thermonuclear weapon detonations.[15] In January 1950, several months after the first Soviet fission test was detected, the US announced a crash program to develop the hydrogen bomb. Initial theoretical efforts were focused on the idea of a self-sustaining fusion reaction in a "pipe" of (uncompressed) liquid deuterium, initiated by a fission bomb and a small amount of deuterium-tritium fusion at one end of the bomb. But calculations and computations made shortly after the announcement showed that this approach was unlikely to work: even if deuterium fusion was achieved in such a scheme, energy losses would immediately halt the progress of the reaction. A search for new ideas led to the Teller-Ulam design, named after Teller and Stanislaw Ulam, which used the radiation energy of a fission bomb to highly compress (radiation implosion) the fusion fuel prior to its ignition. This was accomplished by physically separating the fission ("primary") and thermonuclear ("secondary") components and placing them within a casing that would contain and re-direct the radiation energy appropriately.[16]
+
+The concept was first tested during the May 1951 US Greenhouse George nuclear test, using a small amount of deuterium–tritium gas. The device produced the largest explosive yield to date, at 225 kilotons, essentially all from fission, but the experimental results validated the fundamental concept. Another test during the Greenhouse series, Greenhouse Item, also demonstrated a concept known as "boosting", in which a small amount of a deuterium-tritium mixture was inserted into the center of an implosion-type fission weapon. The detonation of the weapon induced a small amount of nuclear fusion, but the neutrons from the fusion reaction greatly increased the efficiency of the fission reaction, doubling its explosive output.
+
+A full proof-of-concept of the Teller-Ulam design was demonstrated in the November 1952 Ivy Mike test. This was a full-sized liquid deuterium-fusing two-stage test, designed by Richard Garwin, and yielded over 10 megatons of TNT equivalent. Over 70% of the explosion yield was from fission, mostly from the fast-fissioning of a uranium tamper by the neutrons produced from the deuterium fusion. It was not a deliverable weapon, as the cryogenic equipment necessary for keeping the deuterium in a liquid phase weighed 80 tons.[16]
+
+The Soviet Union had their own hydrogen bomb program. In August 1953, they carried out a test of a bomb known as RDS-6s. This was a type of "boosted" weapon, albeit one which used much more fusion than the American approach. It used a solid fuel, lithium deuteride, as its fusion fuel. It yielded 400 kt, of which 20% was from fusion. As a single-stage weapon, it lacked the efficiency and flexibility that two-stage weapons promised, but could be deployed immediately.[17]
+
+Lithium deuteride had been identified by both the US and Soviet Union as a potential fusion fuel for weapons. Because it was solid, it would not require cryogenics to use effectively in large weapons. The lithium-6 isotope was particularly reactive, and could be used to generate tritium exothermically via the Jetter cycle:
+
+    6
+    3Li + 1
+    0n → 4
+    2He + 3
+    1T
+
+During thermonuclear detonations, this provides tritium for the highly energetic DT reaction, and benefits from its neutron production, creating a closed neutron cycle.[18]
+
+The United States tested a deliverable, lithium-deuteride device in 1954. Castle Bravo had an unexpectedly high yield of 15 Mt, and generated significant amounts of nuclear fallout contamination. The Soviets tested their first two-stage device, RDS-37, in 1955, with a yield of 1.5 Mt, having apparently independently discovered the principle. Later innovation in nuclear weapons would allow two-stage weapons to be significantly miniaturized.[17]
+Fusion energy
+Main article: Fusion power
+The US has been counting on private industry to lead in fusion power, while more recently China's government has made fusion a national priority.[19] In 2025, $2.1 billion was poured into a single Chinese state-owned fusion company, an amount two and a half times the U.S. Energy Department's annual fusion budget.[19]
+
+While fusion bomb detonations were loosely considered for energy production, the possibility of controlled and sustained reactions remained the scientific focus for peaceful fusion power. Research into developing controlled fusion inside fusion reactors has been ongoing since the 1930s, with Los Alamos National Laboratory's Scylla I device producing the first laboratory thermonuclear fusion in 1958, but the technology is still in its developmental phase.[20]
+
+The first experiments producing large amounts of controlled fusion power were the experiments with mixes of deuterium and tritium in Tokamaks. Experiments in the TFTR at the PPPL in Princeton University Princeton NJ, USA during 1993–1996 produced 1.6 GJ of fusion energy. The peak fusion power was 10.3 MW from 3.7×1018 reactions per second, and peak fusion energy created in one discharge was 7.6 MJ. Subsequent experiments in the JET in 1997 achieved a peak fusion power of 16 MW (5.8×1018/s). The central Q, defined as the local fusion power produced to the local applied heating power, is computed to be 1.3.[21] In 2023, JET produced 69 MJ of fusion energy using about 0.2 mg of deuterium and tritium, a result announced in February 2024.[22]
+
+The US National Ignition Facility, which uses laser-driven inertial confinement fusion, was designed with a goal of achieving a fusion energy gain factor (Q) of larger than one; the first large-scale laser target experiments were performed in June 2009 and ignition experiments began in early 2011.[23][24] On 13 December 2022, the United States Department of Energy announced that on 5 December 2022, they had successfully accomplished break-even fusion, "delivering 2.05 megajoules (MJ) of energy to the target, resulting in 3.15 MJ of fusion energy output".[25] The rate of supplying power to the experimental test cell is hundreds of times larger than the power delivered to the target.
+
+Prior to this breakthrough, controlled fusion reactions had been unable to produce break-even (self-sustaining) controlled fusion.[26] The two most advanced approaches for it are magnetic confinement (toroid designs) and inertial confinement (laser designs). Workable designs for a toroidal reactor that theoretically will deliver ten times more fusion energy than the amount needed to heat plasma to the required temperatures are in development (see ITER). The ITER facility is currently expected to initiate plasma experiments in 2034, but is not expected to begin full deuterium–tritium fusion until 2039.[27]
+
+Private companies pursuing the commercialization of nuclear fusion received $2.6 billion in private funding in 2021 alone, going to many notable startups including but not limited to Commonwealth Fusion Systems, Helion Energy Inc., General Fusion, TAE Technologies Inc. and Zap Energy Inc.[28]
+
+One of the most recent breakthroughs to date in maintaining a sustained fusion reaction occurred in France's WEST fusion reactor. It maintained a 90 million degree plasma for a record time of six minutes. This is a tokamak-style reactor which is the same style as the upcoming ITER reactor.[29]
